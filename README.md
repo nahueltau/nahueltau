@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nahueltau
+Hi, I’m @nahueltau
 
 Check out my current projects:
 
