@@ -1,4 +1,4 @@
-## Hi, I’m @nahueltau
+<span style="color:blue">Hi, I’m @nahueltau</span>
 
 I'm a **full stack dev** based on **Argentina**.
 
