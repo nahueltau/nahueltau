@@ -1,6 +1,8 @@
 ## Hi, I’m @nahueltau
-# I'm a full stack dev based on Argentina.
-# My prefered stack is React, Tailwind, Node/Express, Docker
+
+I'm a **full stack dev** based on **Argentina**.
+
+My prefered stack is *React, Tailwind, Node/Express, Docker*
 
 
 <!---
